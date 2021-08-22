@@ -10,7 +10,7 @@ setup(
     author_email='support@hyper.co',
     description='Python library for the Hyper API.',
     long_description=long_description,
-    long_description_content_type='',
+    long_description_content_type='text/markdown',
     license='MIT',
     url='https://github.com/meta-labs/hyper-python',
     project_urls={
