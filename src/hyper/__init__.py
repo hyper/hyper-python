@@ -1,4 +1,4 @@
 from .license import License
-from .error import RequestError
+from .error import InvalidRequestError
 
 api_key = None

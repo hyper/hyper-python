@@ -10,7 +10,7 @@ See the [API docs](https://docs.hyper.co/reference).
 ## Installation
 
 ```sh
-pip install --upgrade hyper
+pip install --upgrade hyper-python
 ```
 
 ### Requirements
